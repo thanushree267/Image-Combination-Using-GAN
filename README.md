@@ -13,3 +13,5 @@ This project implements a Generative Adversarial Network (GAN) to combine two im
 2. TensorFlow/Keras: For building and training the GAN model.
 3. OpenCV: For image processing tasks.
 4. HTML/CSS: For the front-end interface
+
+#Project Structure
