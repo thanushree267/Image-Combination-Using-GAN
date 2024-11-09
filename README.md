@@ -14,4 +14,6 @@ This project implements a Generative Adversarial Network (GAN) to combine two im
 3. OpenCV: For image processing tasks.
 4. HTML/CSS: For the front-end interface
 
-#Project Structure
+# Project Structure
+![WhatsApp Image 2024-11-02 at 09 26 31](https://github.com/user-attachments/assets/9d594c8a-ec8b-4985-a536-ba91f61f51e6)
+
